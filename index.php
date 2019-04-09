@@ -41,7 +41,7 @@
 			<a class="label" href="manageAccount.php">Manage Account</a>
 		</div>
 		<a class="credit" href="reference.php" target="_blank">credits</a>
-		<p class="default">default username:admin</br> your default password is admin</p>
+		<p class="default">default username:admin</br> your  kefehdefault password is admin</p>
 	</body>
 
 </html>
